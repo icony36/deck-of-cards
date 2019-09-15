@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Deck of Cards
+
+A simple card dealer web app.
+
+### Live Demo: https://it-deck-of-cards.herokuapp.com/
 
 ## Available Scripts
 
